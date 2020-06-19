@@ -12,12 +12,16 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/sanderdsz/jshunt?color=%2304D361">
 
   <img alt="Frontend" src="https://img.shields.io/badge/web-react-blueviolet">
+
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/fb1ab9d0-7d3c-465b-822e-76437e7d9f77/deploy-status)](https://app.netlify.com/sites/jshunt-reactjs/deploys)
 </p>
 
 ## :computer: Web
 
 <h1 align="center">
-    <img alt="Web" src=".github/web.png" width="500px">
+    <a href="https://jshunt-reactjs.netlify.app">
+        <img alt="Web" src=".github/web.png" width="500px">
+    </a>
 </h1>
 
 ## :bookmark: About
