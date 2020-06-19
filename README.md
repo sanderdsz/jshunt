@@ -1,68 +1,75 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h3 align="center">
+    <img alt="Logo" title="#logo" width="100px" src=".github/logo.png">
+    <br><br>
+    <b>Search Javascript based tools.</b> 
+</h3>
 
-## Available Scripts
+<p align="center">
+  <a href="https://www.linkedin.com/in/sandersz/">
+    <img alt="Made by Sander" src="https://img.shields.io/badge/made%20by-sanderdsz-%2304D361">
+  </a>
 
-In the project directory, you can run:
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/sanderdsz/jshunt?color=%2304D361">
 
-### `yarn start`
+  <img alt="Mobile" src="https://img.shields.io/badge/mobile-react--native-blue">
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  <img alt="Frontend" src="https://img.shields.io/badge/web-react-blueviolet">
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+  <img alt="Backend" src="https://img.shields.io/badge/backend-node.js-green">
+</p>
 
-### `yarn test`
+## :computer: Web
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h1 align="center">
+    <img alt="Web" src=".github/web.png" width="300px">
+</h1>
 
-### `yarn build`
+## :bookmark: About
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+The <strong>JSHunt</strong> is a web app made to search javascript based tools.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## :rocket: Tech Used
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This project was made with the following technologies:
 
-### `yarn eject`
+- [ReactJS](https://reactjs.org/)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## :fire: How to
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- ### **Requirements**
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+  - It's **necessary** **[Node.js](https://nodejs.org/en/)**
+  - You, **need** a package manager like **[NPM](https://www.npmjs.com/)** or **[Yarn](https://yarnpkg.com/)**.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+1. Clone the repo :
 
-## Learn More
+```sh
+  $ git clone https://github.com/sanderdsz/jshunt.git
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+2. Execute the app:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```sh
+  # Install all dependencies
+  $ cd jshunt
+  $ npm install
 
-### Code Splitting
+  # Start the web application
+  $ npm run start
+```
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+## :memo: License
 
-### Analyzing the Bundle Size
+This project is under MIT license. [LICENSE](LICENSE.md)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+## :mailbox_with_mail: Get in touch!
 
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+<a href="https://sanderzuchinalli.netlify.app/" target="_blank" >
+  <img alt="Website - Sander Zuchinalli" src="https://img.shields.io/badge/Website--%23F8952D?style=social">
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sandersz/" target="_blank" >
+  <img alt="Linkedin - Sander Zuchinalli" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
+</a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:sanderdsz@gmail.com" target="_blank" >
+  <img alt="Email - Sander Zuchinalli" src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail">
+</a> 
