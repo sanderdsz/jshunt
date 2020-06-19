@@ -21,7 +21,7 @@
 ## :computer: Web
 
 <h1 align="center">
-    <img alt="Web" src=".github/web.png" width="300px">
+    <img alt="Web" src=".github/web.png" width="500px">
 </h1>
 
 ## :bookmark: About
