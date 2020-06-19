@@ -11,11 +11,7 @@
 
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/sanderdsz/jshunt?color=%2304D361">
 
-  <img alt="Mobile" src="https://img.shields.io/badge/mobile-react--native-blue">
-
   <img alt="Frontend" src="https://img.shields.io/badge/web-react-blueviolet">
-
-  <img alt="Backend" src="https://img.shields.io/badge/backend-node.js-green">
 </p>
 
 ## :computer: Web
