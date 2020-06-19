@@ -13,7 +13,9 @@
 
   <img alt="Frontend" src="https://img.shields.io/badge/web-react-blueviolet">
 
-  [![Netlify Status](https://api.netlify.com/api/v1/badges/fb1ab9d0-7d3c-465b-822e-76437e7d9f77/deploy-status)](https://app.netlify.com/sites/jshunt-reactjs/deploys)
+  <a href="https://jshunt-reactjs.netlify.app">
+    <img alt="Deploy" src="https://api.netlify.com/api/v1/badges/fb1ab9d0-7d3c-465b-822e-76437e7d9f77/deploy-status">
+  </a>
 </p>
 
 ## :computer: Web
